@@ -1,6 +1,6 @@
 Bem-vindo ao meu repositório de perfil do GitHub!
 
-Este repositório contém projetos relevantes e atuais que demonstram minhas habilidades e conhecimentos como desenvolvedor Full-Stack. Aqui você encontrará projetos de desenvolvimento web e mobile, construídos com as tecnologias mais recentes e populares, incluindo JavaScript, ... e outras.
+Este repositório contém projetos relevantes e atuais que demonstram minhas habilidades e conhecimentos como desenvolvedor web Java. Aqui você encontrará projetos de desenvolvimento web, construídos com as tecnologias mais recentes e populares, incluindo JavaScript, Java, Spring Boot, HTML, CSS e outras.
 
 <!--Projetos: -->
 

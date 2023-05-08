@@ -1,12 +1,12 @@
 Bem-vindo ao meu repositório de perfil do GitHub!
 
-Este repositório contém projetos relevantes e atuais que demonstram minhas habilidades e conhecimentos como desenvolvedor web Java. Aqui você encontrará projetos de desenvolvimento web, construídos com as tecnologias mais recentes e populares, incluindo JavaScript, Java, Spring Boot, HTML, CSS e outras.
+Este repositório contém projetos relevantes e atuais que demonstram minhas habilidades e conhecimentos como desenvolvedor web Java. Aqui você encontrará projetos de desenvolvimento web, construídos com a tecnologia Java, Spring Boot, Spring Security, PostgreSQL, entre outras.
 
 <!--Projetos: -->
 
 Sobre mim:
 
-Sou um desenvolvedor iniciante em desenvolvimento web back-end. Tenho habilidades em Java, Spring Boot e HTML, CSS. Estou sempre buscando aprender novas habilidades e participar de projetos desafiantes.
+Sou um desenvolvedor iniciante em desenvolvimento web back-end. Tenho habilidades em Java e spring Framework. Estou sempre buscando aprender novas habilidades e participar de projetos desafiantes.
 
 Informações de contato:
 

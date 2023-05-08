@@ -1,6 +1,6 @@
-Bem-vindo ao meu repositório de perfil do GitHub!
+# Bem-vindo ao meu repositório de perfil do GitHub!
 
-Este repositório contém projetos relevantes e atuais que demonstram minhas habilidades e conhecimentos como desenvolvedor web Java. Aqui você encontrará projetos de desenvolvimento web, construídos com a tecnologia Java, Spring Boot, Spring Security, PostgreSQL, entre outras.
+Este repositório contém projetos relevantes e atuais que demonstram minhas habilidades e conhecimentos como desenvolvedor web Java. Aqui você encontrará projetos de desenvolvimento web, construídos com a tecnologia ***Java, Spring Boot, Spring Security, PostgreSQL, entre outras.***
 
 <!--Projetos: -->
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor iniciante em desenvolvimento web back-end. Tenho habilidade
 
 Informações de contato:
 
-LinkedIn: https://www.linkedin.com/in/jiulio-gusmao
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/jiulio-gusmao
 E-mail: jiuliogusmao@gmail.com
 
 Se você tiver alguma pergunta ou quiser entrar em contato comigo, 
